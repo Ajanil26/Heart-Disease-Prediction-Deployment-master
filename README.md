@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Heart-Disease-Prediction-Deployment-master
+=======
+>>>>>>> 81989d6 (Initial commit)
 ## Heart-Disease-Prediction 
 
 ### Overview
